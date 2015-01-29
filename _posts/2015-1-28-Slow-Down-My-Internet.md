@@ -142,6 +142,10 @@ Go ahead and give it a try and see it helps. I was able to use this to reduce ne
 
 Be sure to remember to turn it off when you're done. Also, this is only to be used for good, not for screwing with your co-worker who left a root shell open on his computer, even if he's asking for it.
 
+## Edit
+
+_If you want to checkout some scripts that wrap up all of this for and translate it for you into Mac land, checkout Tyler Treat's [Comcast Go Scripts](https://github.com/tylertreat/Comcast)._
+
 ## Links and References
 
 1. [The Inspiring StackOverflow Question](http://stackoverflow.com/questions/614795/simulate-delayed-and-dropped-packets-on-linux)
