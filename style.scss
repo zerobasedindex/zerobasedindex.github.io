@@ -51,6 +51,10 @@ h1 {
   }
 }
 
+.post-title {
+  margin-top: 0px;
+}
+
 h2 {
   font-size: 24px;
 }
@@ -118,6 +122,7 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  float: right;
 }
 
 // Specify the color of the selection
@@ -287,3 +292,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "_highlights";
 @import "_svg-icons";
+@import "_cc-license";

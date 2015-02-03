@@ -25,7 +25,7 @@ footer-links:
   instagram: 
   linkedin: 
   pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: feed.xml # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
@@ -70,6 +70,7 @@ exclude:
     - Gemfile
     - Gemfile.lock
     - LICENSE
+    - _posts/LICENSE
     - README.md
     - about.md
     - _posts/2014-3-3-Hello-World.md
