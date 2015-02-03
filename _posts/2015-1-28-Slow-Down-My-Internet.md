@@ -5,7 +5,7 @@ title: Slow Down My Internet (for Testing)
 
 ## Narrative Fodder
 
-As a engineer, you're development environment is typically tuned for performance. You've got plenty of memory, disk space, and fast/low-latency networking. However, the real-world doesn't typically conform to our development environment level of performance, particularly the networking. This is especially important for today's applications (web and mobile) as they make heavy use of web services.
+As an engineer, you're development environment is typically tuned for performance. You've got plenty of memory, disk space, and fast/low-latency networking. However, the real-world doesn't typically conform to our development environment level of performance, particularly the networking. This is especially important for today's applications (web and mobile) as they make heavy use of web services.
 
 The side effect of running at full-tilt during development becomes evident when you start using the app under more real-world conditions, for example, using a cellular network or crappy WiFi. Things start to break due to previously unknown race conditions, your UI starts acting unresponsive, or things just straight up crash. So QA does its job and files a bug, and you try to reproduce it, wondering how this thing could break after working flawlessly in development. 
 
