@@ -81,3 +81,6 @@ The end is finally here. If you can, talk it over with the others and make sure 
 
 Finally, when it comes time to make a decision. It's not a yes, no, or maybe. It's a no or a yes. Try your hardest to always think of it in those terms, because at the end of the day, you either make them an offer or not, you don't maybe offer them a job.
 
+## Edit
+
+I've added a second part to this post on formulating interview questions with examples [here]({% post_url 2015-03-04-Interview-Questions %}).
